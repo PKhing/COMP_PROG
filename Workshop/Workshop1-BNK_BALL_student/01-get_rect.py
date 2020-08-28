@@ -14,7 +14,7 @@ black = (0, 0, 0)
 screen = pg.display.set_mode((width,height))
 
 # โหลดภาพจากภายนอกเข้ามาใช้
-ball = pg.image.load("Workshop1-BNK_BALL_student/source/img/intro_ball.gif")
+ball = pg.image.load("Workshop/Workshop1-BNK_BALL_student/source/img/intro_ball.gif")
 clock = pg.time.Clock()
 running = True
 '''
